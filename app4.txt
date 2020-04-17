@@ -1,0 +1,3 @@
+Concurrency is when a code runs out of order, but the outcome or final result of the program does not change. The code does not specififically give output as the code is written line-by-line but asynchronously.
+JavaScript has a concurrency model based on an event loop, which is responsible for executing the code, collecting and processing events, and executing queued sub-tasks.
+  
